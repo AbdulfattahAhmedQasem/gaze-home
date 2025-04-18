@@ -1,0 +1,2 @@
+/Users/a1/Documents/najehSoft/gaz_home_app-main/android/app/.cxx/RelWithDebInfo/6u1y3ye4/x86/CMakeFiles/edit_cache.dir
+/Users/a1/Documents/najehSoft/gaz_home_app-main/android/app/.cxx/RelWithDebInfo/6u1y3ye4/x86/CMakeFiles/rebuild_cache.dir

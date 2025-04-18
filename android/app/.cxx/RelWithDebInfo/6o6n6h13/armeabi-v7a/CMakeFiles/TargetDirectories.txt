@@ -1,0 +1,2 @@
+/Users/mandm/StudioProjects/gas-master/android/app/.cxx/RelWithDebInfo/6o6n6h13/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/mandm/StudioProjects/gas-master/android/app/.cxx/RelWithDebInfo/6o6n6h13/armeabi-v7a/CMakeFiles/rebuild_cache.dir

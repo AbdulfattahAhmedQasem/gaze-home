@@ -1,0 +1,2 @@
+/Users/zizo/StudioProjects/gaz_home_app/android/app/.cxx/RelWithDebInfo/6n6ac276/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/zizo/StudioProjects/gaz_home_app/android/app/.cxx/RelWithDebInfo/6n6ac276/arm64-v8a/CMakeFiles/rebuild_cache.dir
